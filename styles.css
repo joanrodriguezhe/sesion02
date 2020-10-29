@@ -3,3 +3,17 @@
     margin-left: 20px;
     margin-right: 20px;
 }
+
+.navbar{
+    display: inline;
+}
+
+.item-nav {
+    display: inline;
+    list-style: none;
+    margin-right: 15px;
+}
+
+.user-log {
+    display: inline;
+}
