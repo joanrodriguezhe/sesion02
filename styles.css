@@ -4,7 +4,7 @@
     margin-right: 20px;
 }
 
-.navbar{
+.navbar {
     display: inline;
 }
 
@@ -16,4 +16,10 @@
 
 .user-log {
     display: inline;
+}
+
+.footer {
+    margin-top: 40px;
+    margin-left: 20px;
+    margin-right: 20px;
 }
