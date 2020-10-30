@@ -6,6 +6,10 @@
     height: 45px;
 }
 
+.navbar {
+    width: 100%;
+}
+
 .navbar>*, .footer>* {
     display: inline-block;
     font-size: 16px;
@@ -30,26 +34,29 @@
 .redes>a, .item-nav>a {
     text-decoration: none;
     color: #025157;
-    margin-right: 45px;
-    margin-left: 45px;
+    margin: auto 25px auto 25px;
 }
 
 .options, .redes {
-    width: 68%;
+    width: 69%;
     text-align: center;
     font-weight: 500;
 }
 
-.user-log, .marca {
+.user-log {
     text-align: right;
     width: 15%;
     font-size: 14px;
     font-weight: 600;
 }
 
-.user-log>* {
-    margin-right: 10px;
-    margin-left: 10px;
+.marca {
+    width: 15%;
+    font-size: 12px;
+}
+
+.user-log>a {
+    margin: auto 10px auto 10px;
 }
 
 .user-log>a {
